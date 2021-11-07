@@ -2,14 +2,14 @@
 ###### Front End Web Developer
 ![Front End Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/246460012_1996264670523072_7307283974989531571_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=25EQ0P4Qz5oAX-0W1LA&tn=KBRh3pKtDcuez8pZ&_nc_ht=scontent.fdac14-1.fna&oh=e81aa7a7903edc146a1052dd48216719&oe=61935C2D)
 
-I am a Professional   Front-End web developer and WordPress  Expert  who can create an appropriate user interface and outstanding website for your Business and Brand. I have been working in these areas for the last two and a half years.
+I am a Professional Front-End web developer and WordPress Expert who can create an appropriate user interface and outstanding website for your Business and Brand. I have been working in these areas for the last two and a half years.
 
 Rely on my skills and hope you'll get the most delicate output. Together we'll be unstoppable.
 
 Thanks,
 yousuf
 
-Skills: HTML / CSS / BOOTSTRAP / JS / jQuery / WordPress 
+Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress 
 
 - 🔭 I’m currently working on Sunshine IT and Fiver 
 - Reach Me : https://portfolioyousuf.com/
