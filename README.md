@@ -19,7 +19,7 @@ Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress
  Connect With Me:
 
 [<img src='https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  
-[<img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png' alt='website' height='60'>](http://portfolioyousuf.com/)  
+[<img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png' alt='website' height='55'>](http://portfolioyousuf.com/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com//) 
 
 
