@@ -12,7 +12,7 @@ yousuf
 Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress 
 
 - 🔭 I’m currently working on Sunshine IT and Fiver
-- 💻  Most used line of code console.log("hello world")
+- 💻 Most used line of code console.log("hello world")
 - 🖤 I enjoy programming and sharing knowledge
 - ❕  Reach Me : https://portfolioyousuf.com/
 - 💬 Ask me about Web Development 
