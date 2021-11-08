@@ -12,8 +12,9 @@ yousuf
 Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress 
 
 - 🔭 I’m currently working on Sunshine IT and Fiver 
-- Reach Me : https://portfolioyousuf.com/
-- 🌱 I’m currently learning JavaScript, PHP  
+- 🖤 I enjoy programming and sharing knowledge
+-💻  Most used line of code console.log("hello world")
+- ❕  Reach Me : https://portfolioyousuf.com/
 - 💬 Ask me about Web Development 
 
 
