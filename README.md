@@ -16,14 +16,14 @@ Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress
 - 🖤 I enjoy programming and sharing knowledge
 - ❕  Reach Me : https://portfolioyousuf.com/
 - 💬 Ask me about Web Development 
-
+Connect With Me:
 [<img src='https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com//) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://my.portfolioyousuf.com/)  
+[<img src='https://image.similarpng.com/very-thumbnail/2020/05/Solutions-website-logo-png.png' alt='website' height='40'>](http://my.portfolioyousuf.com/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
