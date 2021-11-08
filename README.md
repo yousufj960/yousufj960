@@ -18,7 +18,7 @@ Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress
 - 💬 Ask me about Web Development 
  Connect With Me:
 
-[<img src='https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  [<img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png' alt='website' height='50'>](http://portfolioyousuf.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com//) 
+[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  [<img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png' alt='website' height='50'>](http://portfolioyousuf.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com//) 
 
 
 
