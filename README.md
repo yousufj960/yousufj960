@@ -17,12 +17,11 @@ Skills: HTML5 / CSS3 / Framework-Bootstrap / JS / jQuery / WordPress
 - ❕  Reach Me : https://portfolioyousuf.com/
 - 💬 Ask me about Web Development 
 
+[<img src='https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yousufj960)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com//) 
 
-[<img src='https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://my.portfolioyousuf.com/)  
 
