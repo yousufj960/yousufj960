@@ -3,11 +3,10 @@
 ![Front End Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/246460012_1996264670523072_7307283974989531571_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=25EQ0P4Qz5oAX-0W1LA&tn=KBRh3pKtDcuez8pZ&_nc_ht=scontent.fdac14-1.fna&oh=e81aa7a7903edc146a1052dd48216719&oe=61935C2D)
 
 I am a Professional Front-End web developer and WordPress Expert who can create an appropriate user interface and outstanding website for your Business and Brand. I have been working in these areas for the last two and a half years.
-
 Rely on my skills and hope you'll get the most delicate output. Together we'll be unstoppable.
 
-Thanks,
-yousuf
+
+
 ☕ Connect With Me ---
 
  [<img src='https://images.squarespace-cdn.com/content/v1/533361cce4b0f4b356806ce8/1421530766959-AODZLBM9HL4JWQCXDGOP/Resume+Icon.png?format=750w' alt='website' height='40'>](http://portfolioyousuf.com/) [<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/yousufj95/)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com//)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='Twitter' height='40'>](https://twitter.com/JamilYousufj95/) 
