@@ -15,7 +15,7 @@ Rely on my skills and hope you'll get the most delicate output. Together we'll b
 
 Skills: HTML5 / CSS3 / Framework-Bootstrap / javaScript / jQuery / WordPress 
 
-- 🔭 I’m currently working on Sunshine IT and Fiver
+
 - 💻 Most used line of code console.log("hello world")
 - 🖤 I enjoy programming and sharing knowledge
 - ❕  Reach Me : https://portfolioyousuf.com/
