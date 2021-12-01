@@ -16,9 +16,9 @@ I am a Professional Front-End web developer and WordPress Expert who can create 
 Skills: HTML5 / CSS3 / Framework-Bootstrap / javaScript / jQuery / WordPress 
 
 
-- 💻 Most used line of code console.log("hello world")
-- 🖤 I enjoy programming and sharing knowledge
-- ❕  Reach Me : https://portfolioyousuf.com/
+- Most used line of code console.log("hello world")
+- I enjoy programming and sharing knowledge
+- Reach Me : https://portfolioyousuf.com/
 - 💬 Ask me about Web Development 
 
  
