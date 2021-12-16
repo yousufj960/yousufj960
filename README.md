@@ -19,7 +19,7 @@ Skills: HTML5  | CSS3  |  Framework-Bootstrap  |  Vanilla JavaScript  |  ES6   |
 - Most used line of code console.log("hello world")
 - I enjoy programming and sharing knowledge
 - Reach Me : https://portfolioyousuf.com/
-- 💬 Ask me about Web Development 
+- 💬  Ask me about Web Development 
 
  
 
