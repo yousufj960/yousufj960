@@ -3,7 +3,7 @@
 ![Front End Web Developer](https://dev-md-yousuf-jamil-portfolio.pantheonsite.io/wp-content/uploads/2021/12/247981265_292431946082425_5517745048174941980_n-1024x512.jpg)
 ###   Welcome To My Github Profile 🖐🖐
 
-I am a Professional Front-End web developer and WordPress Expert who can create an appropriate user interface and outstanding website for your Business and Brand. I have been working in these fields for the last 2 years.Have good experience in Front-end Website Design , WordPress theme customization and speed optimization. Basically, I design Website using Html5, Css3, Bootstrap, javascript. I have SEO experience also.
+I completed my Bachelor's degree In Computer Science from American International University-Bangladesh.I design and develop Websites using Html5, Css3, Bootstrap, javascript, WordPress. I Have 2 years of experience in Front-end Website development, WordPress theme customization, and speed optimization. I have SEO experience also.I am a Professional Front-End web developer and WordPress Expert who can create an appropriate user interface and outstanding website for your Business and Brand. I have been working in these fields for the last 2 years.
 
 
 
